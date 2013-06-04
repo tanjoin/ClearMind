@@ -1,0 +1,1 @@
+package in.tanjo.clearmind;import android.app.Activity;public class BaseActivity extends Activity {}
