@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClearMind</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- ClearMindMenuActivity -->
+    <string name="clear_mind_menu_activity_title">Menu</string>
+    <string name="clear_mind_menu_activity_app_finish_menu_caption">Exit</string>
+
+    <!-- TakePicturesActivity -->
+    
+    <!-- SoundMeterActivity -->
+    <string name="sound_meter_activity_title">Sound Meter</string>
+    
+    <!-- BitmapEditActivity -->
+    <string name="bitmap_edit_activity_title">Bitmap Edit</string>
+    <string name="bitmap_edit_activity_save_message">Save?</string>
+    <string name="bitmap_edit_activity_save_ok">OK</string>
+    <string name="bitmap_edit_activity_save_cancel">Cancel</string>
+    
+    <!-- VersionViewerActivity -->
+    <string name="version_viewer_activity_title">Version Viewer</string>
+    
+</resources>

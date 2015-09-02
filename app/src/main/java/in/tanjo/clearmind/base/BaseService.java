@@ -1,0 +1,1 @@
+package in.tanjo.clearmind.base;import android.app.Service;import android.content.Intent;import android.os.IBinder;public class BaseService extends Service {    @Override    public IBinder onBind(final Intent arg0) {        return null;    }}
